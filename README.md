@@ -1,1 +1,1 @@
-# PruebasConClientesGr-ficos
+# Pruebas con clientes gráficos
